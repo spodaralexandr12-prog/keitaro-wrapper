@@ -1,0 +1,10 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.db
+*.db-*
+.idea/
+.vscode/
+test_*.py
+find_test_campaign.py
