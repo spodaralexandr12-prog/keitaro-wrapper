@@ -27,7 +27,7 @@
 1. Клонировать репозиторий:
 
 ```bash
-git clone <URL_REPOSITORY>
+git clone https://github.com/spodaralexandr12-prog/keitaro-wrapper.git
 cd keitaro-wrapper
 ```
 
